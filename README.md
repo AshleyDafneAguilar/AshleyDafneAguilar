@@ -4,7 +4,7 @@ I am a student at UNAM, studying Information Technology in Science (IT) & I coac
 
 My topics of interest are artificial intelligence, data science, discrete and continuous probability, inferential and multivariate statistics, genetic algorithms, evolutionary computation and biological sciences; specifically immunology. My goal is to carry out projects where these topics are combined.
 
-Technologies and Tools: Python, Bash, SQL, R, Qgis, Git, GitHub and I work with Linux and Windows operating systems.
+Technologies and Tools: Python, Bash, SQL, R, QGIS, Git, GitHub and I work with Linux and Windows operating systems.
 
 I have participated in several projects together with researchers from UNAM, ENES Morelia: 
 1. Taller Futuros posibles, a proposal to induce high school women to the area of artificial intelligence and data science.
