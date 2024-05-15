@@ -1,6 +1,6 @@
 ### Hi, Konnichiwa, I'm Ashley Aguilar
 
-I am a student at UNAM, studying Information Technology in Science (IT) & I coach the Michoacán women's national team for the Mexican Mathematics Olympiad.
+I am a student at UNAM, I study Information Technology in Science (IT), I am part of the state committee of the Mathematics Olympiad of Michoacán (OMM) & I coach the female representative team of Michoacán for the Mexican Mathematics Olympiad.
 
 My topics of interest are artificial intelligence, data science, discrete and continuous probability, inferential and multivariate statistics, genetic algorithms, evolutionary computation and biological sciences; specifically immunology. My goal is to carry out projects where these topics are combined.
 
