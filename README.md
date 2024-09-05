@@ -18,7 +18,7 @@ I was involved in the development of the Mexican Mathematical Kangaroo 2024 web 
 Some fun facts about me are:
 - National Champion in Children's Athletic Fitness in 2013.
 - Twelfth place in programming contest by Coder Bloom in 2022.
-- Miss Petite Jerrarquia Michoacán 2023.
+- Miss Petite Jerarquía Michoacán 2023.
 - Member of the women's volleyball team at UNAM, ENES Morelia.
 - And in my free time I am a model.
 
