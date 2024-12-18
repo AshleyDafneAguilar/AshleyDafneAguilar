@@ -28,6 +28,7 @@ My topics of interest include
 - **Discrete and Continuous Probability**
 - **Inferential and Multivariate Statistics**  
 -  **Biological sciences**, specifically **immunology** and **neurobiology**
+  
 I seek to integrate these disciplines to create innovative projects that advance knowledge in biological sciences, leveraging optimization tools to drive progress.
 
 ---
