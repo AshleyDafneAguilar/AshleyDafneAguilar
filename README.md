@@ -7,6 +7,13 @@
 
 ---
 
+## 🚀 About Me  
+<p>
+My areas of interest include artificial intelligence, data science, mathematical optimization, and biological sciences, with a particular focus on <strong>immunology</strong> and <strong>neurology</strong>. My goal is to integrate these disciplines to develop innovative projects that advance knowledge in biological sciences, using optimization tools as a key support.
+</p>
+
+
+---
 
 
 My topics of interest are artificial intelligence, data science, discrete and continuous probability, inferential and multivariate statistics, genetic algorithms, evolutionary computation and biological sciences; specifically immunology. My goal is to carry out projects where these topics are combined.
