@@ -46,7 +46,7 @@ I have participated in various projects, collaborating with researchers from **U
 2. **Teaching Materials Development:** Co-created resources for the Machine Learning class in the IT degree program.  
 3. **Mapping Risk Areas:** Member of the *Emerging Network of Care for ENES Students*, mapping risk areas around campus.  
 4. **Michoacán Mathematics Olympiad Training:** Conducted in-person training sessions in June 2023 to select the state representative team.
-5. - **Course-Workshop for Coaches of the Mexican Mathematics Olympiad at CIMAT:** A workshop held at CIMAT, Guanajuato, focused on enhancing coaching skills and supporting the development of top-performing students in the Mexican Mathematics Olympiad.
+5. **Course-Workshop for Coaches of the Mexican Mathematics Olympiad at CIMAT:** A workshop held at CIMAT, Guanajuato, focused on enhancing coaching skills and supporting the development of top-performing students in the Mexican Mathematics Olympiad.
 
 ---
 
@@ -64,7 +64,6 @@ I have participated in several research initiatives, collaborating with leading 
 - 👑 **Miss Petite Jerarquía Michoacán 2023**  
 - 🏐 Member of the **Women's Volleyball Team** at UNAM, ENES Morelia  
 - 📸 **Model** in my free time.
-- 
 ---
 
 ## 📫 Let's Connect!  
