@@ -15,25 +15,56 @@ My areas of interest include artificial intelligence, data science, mathematical
 
 ---
 
+## 🔬 Current Projects  
+I'm currently conducting **thesis research** in collaboration with researchers from the Center for Research in Mathematics **(CIMAT)**. My work focuses on solving an **optimization problem** related to **magnetic resonance imaging (MRI)** of mouse brains, using **evolutionary computation** and **binary optimization** techniques to improve the analysis and interpretation of MRI data.
 
-My topics of interest are artificial intelligence, data science, discrete and continuous probability, inferential and multivariate statistics, genetic algorithms, evolutionary computation and biological sciences; specifically immunology. My goal is to carry out projects where these topics are combined.
+---
 
-Technologies and Tools: Python, Bash, SQL, R, QGIS, Git, GitHub and I work with Linux and Windows operating systems.
+## 🔍 Topics of Interest  
+My topics of interest include 
+- **Data science**
+- **Artificial intelligence**
+- **Mathematical optimization**
+- **Discrete and Continuous Probability**
+- **Inferential and Multivariate Statistics**  
+-  **Biological sciences**, specifically **immunology** and **neurobiology**
+I seek to integrate these disciplines to create innovative projects that advance knowledge in biological sciences, leveraging optimization tools to drive progress.
 
-I have participated in several projects together with researchers from UNAM, ENES Morelia: 
-1. Taller Futuros posibles, a proposal to induce high school women to the area of artificial intelligence and data science.
-2. Development of teaching materials for Machine Learning class, taught in the fourth semester of the career in IT.
-3. Member of the emerging network of care for enesianas, an initiative to map risk areas around the campus. 
-4. Also, I have been part of the in-person training June 2023 of the Michoacán Mathematics Olympiad to choose the representative selection.
+---
 
-I attended the course-workshop for coaches of the Mexican Mathematics Olympiad at CIMAT, Guanajuato.
-I was involved in the development of the Mexican Mathematical Kangaroo 2024 web page.
+## 🛠️ Technologies & Tools  
+- **Programming Languages:** Python, Bash, SQL, R  
+- **Software & Platforms:** Git, GitHub, QGIS, GetOrganelle  
+- **Operating Systems:** Linux & Windows  
 
-Some fun facts about me are:
-- National Champion in Children's Athletic Fitness in 2013.
-- Twelfth place in programming contest by Coder Bloom in 2022.
-- Miss Petite Jerarquía Michoacán 2023.
-- Member of the women's volleyball team at UNAM, ENES Morelia.
-- And in my free time I am a model.
+---
 
-If you would like to contact me, please email me at `ashaguilar06@gmail.com`.
+## 🌟 Notable Experiences  
+I have participated in various projects, collaborating with researchers from **UNAM, ENES Morelia**, including:  
+1. **Taller Futuros Posibles:** A workshop designed to inspire high school women to explore artificial intelligence and data science.  
+2. **Teaching Materials Development:** Co-created resources for the Machine Learning class in the IT degree program.  
+3. **Mapping Risk Areas:** Member of the *Emerging Network of Care for ENES Students*, mapping risk areas around campus.  
+4. **Michoacán Mathematics Olympiad Training:** Conducted in-person training sessions in June 2023 to select the state representative team.
+5. - **Course-Workshop for Coaches of the Mexican Mathematics Olympiad at CIMAT:** A workshop held at CIMAT, Guanajuato, focused on enhancing coaching skills and supporting the development of top-performing students in the Mexican Mathematics Olympiad.
+
+---
+
+## 🔬 Collaborations & Research  
+I have participated in several research initiatives, collaborating with leading institutions and researchers, including:  
+1. **Course-Workshop for Coaches of the Mexican Mathematics Olympiad at CIMAT:** A workshop held at CIMAT, Guanajuato, focused on enhancing coaching skills and supporting the development of top-performing students in the Mexican Mathematics Olympiad.  
+2. **PAPIME Project with the Institute of Biomedical Research at UNAM and UNAM Morelia Campus:** Collaborated with researchers from the Institute of Biomedical Research at UNAM, who provided data, and with researchers from the UNAM Morelia campus to develop predictive models for neutropenia pathology, leveraging machine learning and statistical methods.
+
+---
+
+
+## 🏅 Fun Facts About Me  
+- 🥇 **National Champion** in Children's Athletic Fitness (2013)  
+- 🌟 **12th Place** in the Coder Bloom Programming Contest (2022)  
+- 👑 **Miss Petite Jerarquía Michoacán 2023**  
+- 🏐 Member of the **Women's Volleyball Team** at UNAM, ENES Morelia  
+- 📸 **Model** in my free time.
+- 
+---
+
+## 📫 Let's Connect!  
+Feel free to reach out to me via email at **ashaguilar06@gmail.com**. I'm always open to collaboration and networking opportunities!  
