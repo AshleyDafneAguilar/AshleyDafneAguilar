@@ -54,7 +54,7 @@ I have participated in various projects, collaborating with researchers from **U
 I have participated in several research initiatives, collaborating with leading institutions and researchers, including:
 1. **State Committee and Coach for the Michoacán Mathematics Olympiad:** Member of the organizing committee and coach for the Michoacán Mathematics Olympiad, contributing to the training and mentorship of students in mathematical problem-solving across elementary, middle school, and high school levels.
 2. **PAPIME Project with the Institute of Biomedical Research at UNAM and UNAM Morelia Campus:** Collaborated with researchers from the Institute of Biomedical Research at UNAM, who provided data, and with researchers from the UNAM Morelia campus to develop predictive models for neutropenia pathology, leveraging machine learning and statistical methods.
-3. **Science Outreach Video with Dr. Claudia Cervantes Durán:** Collaborated on the creation of a science communication video titled “¿Morimos realmente cuando el corazón se detiene?”, published by the Faculty of Public Health and Nursing at UMSNH, aiming to make medical knowledge accessible to a broader audience.
+3. **Science Outreach Video:** Collaborated on the creation of a science communication video titled “¿Morimos realmente cuando el corazón se detiene?”, published by the Faculty of Public Health and Nursing at UMSNH, aiming to make medical knowledge accessible to a broader audience.
 ---
 
 
