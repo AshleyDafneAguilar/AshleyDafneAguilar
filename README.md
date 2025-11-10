@@ -1,6 +1,7 @@
 # 🌟 Hi, Konnichiwa, I'm Ashley Aguilar  
 
-👩‍💻 **Student at UNAM** | 🎓 **Information Technology in Science (IT)**  
+👩‍💻 **Student at INAOE** | **Master's degree in computer science**  
+🎓 **Bachelor's degree Information Technology in Science (IT)**  
 🌟 **Member of the State Committee of the Mathematics Olympiad of Michoacán (OMM)**  
 🌟 **Coach for the Michoacán Female Representative Team - Mexican Mathematics Olympiad**  
 📍 **Collaborating with researchers at CIMAT on thesis-related research in optimization and evolutionary computation**
