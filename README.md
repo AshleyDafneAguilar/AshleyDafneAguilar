@@ -69,4 +69,4 @@ I have participated in several research initiatives, collaborating with leading 
 ---
 
 ## 📫 Let's Connect!  
-Feel free to reach out to me via email at **ashaguilar06@gmail.com**. I'm always open to collaboration and networking opportunities!  
+Feel free to reach out to me via email at **ashleyd.aguilars@inaoep.mx**. I'm always open to collaboration and networking opportunities!  
