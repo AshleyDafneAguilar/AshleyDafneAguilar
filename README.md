@@ -35,7 +35,7 @@ I seek to integrate these disciplines to create innovative projects that advance
 ---
 
 ## 🛠️ Technologies & Tools  
-- **Programming Languages:** Python, Bash, SQL, R  
+- **Programming Languages:** Python, Bash, SQL, R, Matlab, C Sharp  
 - **Software & Platforms:** Git, GitHub, QGIS, GetOrganelle  
 - **Operating Systems:** Linux & Windows  
 
