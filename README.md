@@ -64,7 +64,7 @@ I have participated in several research initiatives, collaborating with leading 
 - 🥇 **National Champion** in Children's Athletic Fitness (2013)  
 - 🌟 **12th Place** in the Coder Bloom Programming Contest (2022)  
 - 👑 **Miss Petite Jerarquía Michoacán 2023**  
-- 🏐 Member of the **Women's Volleyball Team** at UNAM, ENES Morelia  
+- 🏐 Member of the **mixed volleyball team** at INAOE.
 - 📸 **Model** in my free time.
 ---
 
